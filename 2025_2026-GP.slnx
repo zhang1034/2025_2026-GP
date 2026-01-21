@@ -7,5 +7,6 @@
   <Project Path="fps.Gameplay.csproj" />
   <Project Path="Unity.FPS.Tutorials.csproj" />
   <Project Path="NavMeshComponentsEditor.csproj" />
+  <Project Path="Assembly-CSharp.csproj" />
   <Project Path="fps.Editor.csproj" />
 </Solution>
